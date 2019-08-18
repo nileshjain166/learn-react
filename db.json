@@ -1,46 +1,46 @@
 [
   {
-    id:1,
-    name: 'Frankestein'
+    "id":1,
+    "name": "Frankestein"
   },
   
   {
-    id:2,
-    name: 'Banshee'
+    "id":2,
+    "name": "Banshee"
   },
   
   {
-    id:3,
-    name: 'Wolf'
+    "id":3,
+    "name": "Wolf"
   },
   
   {
-    id:4,
-    name: 'Vampires'
+    "id":4,
+    "name": "Vampires"
   },
   
   {
-    id:5,
-    name: 'Dracula'
+    "id":5,
+    "name": "Dracula"
   },
   {
-    id:6,
-    name: 'Venom'
+    "id":6,
+    "name": "Venom"
   },
   {
-    id:7,
-    name: 'Tiger'
+    "id":7,
+    "name": "Tiger"
   },
   {
-    id:8,
-    name: 'Death Race'
+    "id":8,
+    "name": "Death Race"
   },
   {
-    id:9,
-    name: 'Black Mamba'
+    "id":9,
+    "name": "Black Mamba"
   },
   {
-    id:10,
-    name: 'Anaconda'
+    "id":10,
+    "name": "Anaconda"
   },
   ]
